@@ -7,7 +7,7 @@ class PaperObject {
     friction:0.5,
     density:1.2
     }
-    this.image= loadImage("red")
+    this.image = loadImage("sprites/PaperObject.png");
     }
 
 

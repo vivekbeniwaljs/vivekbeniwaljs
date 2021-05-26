@@ -39,7 +39,6 @@ ground.display();
 log1.display();
 paper1.display()
 
-
   drawSprites();
  
 }
